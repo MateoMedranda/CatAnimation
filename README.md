@@ -9,10 +9,10 @@ This repository contains animations developed with [Blender].
 ## 📸 Preview
 
 ### Example 1
-![Animation Example](./imgReadme/CatFinall)
+![Animation Example](./imgReadme/CatFinall.png)
 
 ### Model
-![Model 3D](./imgReadme/CatModel)
+![Model 3D](./imgReadme/CatModel.png)
 
 ---
 
