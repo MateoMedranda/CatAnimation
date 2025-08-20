@@ -2,6 +2,7 @@
 
 Welcome to **CAT animation project**!  
 This repository contains animations developed with [Blender].
+--------------------------------------------------------------------------------------------------------
 ![Animation Example](./imgReadme/CatPresentation.png)
 ---
 
