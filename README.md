@@ -2,13 +2,13 @@
 
 Welcome to **CAT animation project**!  
 This repository contains animations developed with [Blender].
-
+![Animation Example](./imgReadme/CatPresentation.png)
 ---
 
 ## 📸 Preview
 
 ### Example 1
-![Animation Example](./assets/animation1.gif)
+![Animation Example](./imgReadme/)
 
 ### Example 2
 <img src="./assets/animation2.png" alt="Animation 2" width="500"/>
